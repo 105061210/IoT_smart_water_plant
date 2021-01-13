@@ -18,7 +18,7 @@
 
 ### Hardware
 Connect those ingredients with Arduino
-![alt text](https://github.com/105061210/SMS_IoT/blob/main/assets/iot_wire.jpeg)
+![alt text](https://github.com/105061210/IoT_smart_water_plant/blob/main/assets/iot_wire.jpeg)
 
 ### Software
 #### upload sensor data to AWS
@@ -60,7 +60,7 @@ Finally, connect to the IP of Raspberry Pi, we can monitor our plants!
 * For sending the photo of the plant through Line notify https://drive.google.com/file/d/1-J7Asu7q0_Cxp1w3vhEoD8UVgFxaumYM/view?usp=sharing
 #### Picture
 
-![alt text](https://github.com/105061210/SMS_IoT/blob/main/assets/iot_result.jpg)
+![alt text](https://github.com/105061210/IoT_smart_water_plant/blob/main/assets/iot_result.jpg)
 
 
 
